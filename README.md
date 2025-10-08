@@ -1,12 +1,12 @@
 
-# Data summary
+# USDA TEFAP Funding Data
 
 Records from a FOIA to the USDA for records of cancelled orders through The Emergency Food Assistance Program CCC 2025 funding. The records show **4,304 canceled deliveries** between May and September across the 50 states, Puerto Rico, and D.C.
 
 
 ### Original request
 
-<sub>An inventory of all food made available via the FY 2025 Commodity Credit Corporation TEFAP Funding, including a material description, material number, and quantity, whether the items were delivered or cancelled, the date the food was distributed if applicable, and the state or distributing organization the food was distributed (or intended to be distributed) to.</sub>
+An inventory of all food made available via the FY 2025 Commodity Credit Corporation TEFAP Funding, including a material description, material number, and quantity, whether the items were delivered or cancelled, the date the food was distributed if applicable, and the state or distributing organization the food was distributed (or intended to be distributed) to.
 
 
 ### Column Descriptions
