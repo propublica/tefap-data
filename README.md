@@ -18,6 +18,6 @@ From the USDA response to our FOIA, with our notes/added columns in *italic*:
 - **Column E**: Delivery status — `order received`, `cancelled`, or `purchased`.
   - *“Purchased” applies to items that were ordered, but not delivered at the date the FOIA was completed (7/29/2025).*
 - **Column F and G**: Requested delivery date and actual delivery date.
-  - If the items weren’t delivered, the actual delivery date will be blank.
+  - *If the items weren’t delivered, the actual delivery date will be blank.*
 - **Column H and I**: The state and the state organization that ordered the food.
 - **Column J**: The organization the food was intended for.
