@@ -13,7 +13,7 @@ An inventory of all food made available via the FY 2025 Commodity Credit Corpora
 From the USDA response to our FOIA, with our notes/added columns in **purple**:
 
 - **Column A**: A unique ID for each type of item.
-- **Column B**: Description of the items
+- **Column B**: Description of the items, including the number of items and the weight per item.
 - **Column C**: Number of cases ordered by the food bank.
 - **Column E**: Delivery status — `order received`, `cancelled`, or `purchased`.
   - *“Purchased” applies to items that were ordered, but not delivered at the date the FOIA was completed (7/29/2025).*
