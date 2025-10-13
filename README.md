@@ -3,7 +3,7 @@
 
 Records from a FOIA to the USDA for records of canceled orders through The Emergency Food Assistance Program CCC 2025 funding. The records show **4,304 canceled deliveries** between May and September across the 50 states, Puerto Rico, and D.C.
 
-[Read the full story.](https://projects.propublica.org/trump-food-cuts/)
+[Read the ProPublica story.](https://projects.propublica.org/trump-food-cuts/)
 
 
 ### Original request
