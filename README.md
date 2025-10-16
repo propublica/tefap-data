@@ -11,7 +11,6 @@ An inventory of all food made available via the FY 2025 Commodity Credit Corpora
 
 
 ### Column Descriptions
-From the USDA response to our FOIA, with our notes in *italic*:
 
 - **Column A**: A unique ID for each type of item.
 - **Column B**: Description of the items, including the number of items and the weight per item.
